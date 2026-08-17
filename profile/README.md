@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/logo-dark.png">
-    <img src="profile/logo-light.png" alt="Doblura" width="206">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doblura/.github/main/profile/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/doblura/.github/main/profile/logo-light.png" alt="Doblura" width="206">
   </picture>
 </p>
 
